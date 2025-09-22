@@ -1,13 +1,13 @@
 
 ### Resumen del Challenge
 
-Este es un sencillo juego del "Amigo Secreto" desarrollado como parte del programa **ONE (Oracle Next Education)** en **Alura Latam**.
+# 🎁 Amigo Secreto
 
-El objetivo del juego es que el usuario adivine un número secreto. El programa funciona de la siguiente manera:
+¡Una aplicación web sencilla y divertida para organizar el clásico juego del Amigo Secreto!
 
-* Al cargar la página, se le pide al usuario que ingrese un número a través de un `prompt`.
-* El usuario tiene un total de **tres intentos** para adivinar el número secreto.
-* Si el usuario no logra adivinar el número en los intentos disponibles, el juego termina. Para volver a jugar, el usuario debe recargar la página.
+Con esta herramienta puedes añadir participantes, y luego sortear aleatoriamente quién regala a quién.
+
+---
 
 ### Tecnologías utilizadas:
 
