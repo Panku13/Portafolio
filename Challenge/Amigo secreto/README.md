@@ -1,6 +1,4 @@
 
-### Resumen del Challenge
-
 # 🎁 Amigo Secreto
 
 ¡Una aplicación web sencilla y divertida para organizar el clásico juego del Amigo Secreto!
