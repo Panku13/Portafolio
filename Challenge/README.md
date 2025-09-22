@@ -1,4 +1,4 @@
-# Resumen del Proyecto
+### Resumen del Proyecto
 
 Este es un sencillo juego de "Número Secreto" desarrollado como parte del programa **ONE (Oracle Next Education)** en **Alura Latam**.
 
