@@ -14,3 +14,5 @@ Con esta herramienta puedes añadir participantes, y luego sortear aleatoriament
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="100" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="100" alt="JavaScript" />
 </div>
+
+Challenge/Amigo secreto/assets/Captura 01.png
