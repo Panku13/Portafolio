@@ -1,7 +1,7 @@
 
 ### Resumen del Challenge
 
-Este es un sencillo juego de "Número Secreto" desarrollado como parte del programa **ONE (Oracle Next Education)** en **Alura Latam**.
+Este es un sencillo juego del "Amigo Secreto" desarrollado como parte del programa **ONE (Oracle Next Education)** en **Alura Latam**.
 
 El objetivo del juego es que el usuario adivine un número secreto. El programa funciona de la siguiente manera:
 
