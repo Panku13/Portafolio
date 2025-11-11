@@ -1,4 +1,4 @@
-# 🧠 **Challenge Alura Store**
+# 🧠 **Challenge Alura Store – Claudia**
 
 ### 💼 *Desafío de Análisis y Ciencia de Datos de Alura*
 
@@ -22,7 +22,19 @@ Para ello, se realizó un análisis integral de las **4 tiendas actuales**, eval
 
 ---
 
+## 🧩 **Tecnologías Utilizadas**
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="150"/>
+<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" height="150"/> 
+
+</div>
+
+---
+
 ## 🚀 **Resultado Esperado**
 
 Un análisis completo, visual e interpretativo que sirva como apoyo a la **toma de decisiones estratégicas** del negocio, demostrando habilidades en el manejo, exploración y comunicación de datos.
+
 
