@@ -3,8 +3,6 @@
 <h2> Análisis de deserción de Clientes </h2>
 </div>
 
-![Badge en Desarollo](https://img.shields.io/badge/ENTREGA-%2018/02/2026-pink)
-
 <h3> Introducción </h3>
 
 Desarrollar modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios.
