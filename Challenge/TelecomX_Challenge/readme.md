@@ -3,8 +3,6 @@
 <h2> Análisis de deserción de Clientes </h2>
 </div>
 
-![Badge en Desarollo](https://img.shields.io/badge/ENTREGA-%2012/01/2026-pink)
-
 <h3> Introducción </h3>
 
 Se realiza crea un análisis del proyecto "Churn de Clientes". La empresa enfrenta una alta tasa de cancelaciones y necesita comprender los factores que llevan a la pérdida de clientes.
